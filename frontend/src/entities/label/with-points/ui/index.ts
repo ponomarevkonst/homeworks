@@ -1,0 +1,1 @@
+export {default as SimpleLabel} from './with-points.svelte';

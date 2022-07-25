@@ -1,0 +1,1 @@
+export {default as TaskDetailPage} from './page.svelte';

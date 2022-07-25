@@ -1,0 +1,1 @@
+export {default as SimpleCentredModal} from './simple-centred.svelte';
